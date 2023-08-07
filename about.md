@@ -1,6 +1,9 @@
 ---
-layout: home
+layout: page
 title: About
 ---
 
-my name is **Jimin Yoon** 🚀🚀🚀
+My name is **Jimin Yoon** 
+I am studying at [Shinmok High School](https://shinmok.sen.hs.kr/)
+
+🚀🚀🚀🚀
